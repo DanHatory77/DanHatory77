@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DanHatory77
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Python, HTML5, PowerBI.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning HTML5, CSS, JavaScript.
+- 📫 How to reach me: Linkedin:https://www.linkedin.com/in/danielbrito77/
 
 <!---
 DanHatory77/DanHatory77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
