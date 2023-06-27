@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanHatory77
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML5, CSS, JavaScript.
+- 👀 I’m interested in Full Stack Development.
+- 🌱 I’m currently learning Python,
 - 📫 How to reach me: Linkedin:https://www.linkedin.com/in/danielbrito77/
 
 <!---
