@@ -1,7 +1,7 @@
 # @DanHatory77
 ## Introdução
 - 👋 Hi, I’m @DanHatory77
-- 👀 I’m interested in / Data Science / Data Engeriring / Data Analysis
+- 👀 I’m interested in / Data Science / Data Engeriring / Data Analysis / IA / LLM
 - 🌱 I’m currently learning Python, SQL, PowerBI.
 - I am a data enthusiast. I love studying and understanding the importance of data management in the world and how to help companies better understand their history, their work and their future.
 
